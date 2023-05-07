@@ -28,7 +28,7 @@ const createNavbar = () =>{
             </a>
          </div>
          <div class="user">
-            <img src="img/user.png" class="user-icon" alt="">
+            <img src="user.png" class="user-icon" alt="">
             <div class="user-icon-popup">
                 <p>login to your account</p>
                 <a href= "login.html">login</a>
