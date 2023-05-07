@@ -23,7 +23,7 @@ const createNavbar = () =>{
     <div class="user-interactions">
          <div class="cart">
             <a href="cart.html">
-            <img src="img/cart.png" class="cart-icon" alt="">
+            <img src="cart.png" class="cart-icon" alt="">
             <span class="cart-item-count">00</span>
             </a>
          </div>
